@@ -1,1 +1,3 @@
-# Python-SpaceWars-PyGame
+This is a game I created using Python and PyGame. While coding this project, I learned about object collision regarding objects going off screen as well as not passing midscreen barriers, importing audio and jpg files, and many other PyGame functions.
+I chose to work on this because it sounded different and interesting compared to what I have been learning in the coding classes I've taken. Overall, it was a fun experience.
+There are two players that each have 10 lives and control their own spaceship. They can shoot and hit each other, each hit reducing a life point by 1. A winner is announced once a player hits 0 lives.
